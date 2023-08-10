@@ -19,13 +19,13 @@ To heighten the precision of my models, I've divided the dataset into training a
 # Requirements:
 For those interested in executing this project on their personal systems, there are a few prerequisites that need to be met:
  
-Installation of Anaconda: Anaconda Download.
-Installation of the following Python libraries (if not already present):
-tensorflow
-keras
-jupyter
-matplotlib
-numpy
+* Installation of Anaconda: Anaconda Download.
+* Installation of the following Python libraries (if not already present):
+* tensorflow
+* keras
+* jupyter
+* matplotlib
+* numpy
 These libraries can be conveniently installed through the graphical user interface of Anaconda or via the Anaconda Prompt (Anaconda3) by utilizing the command conda install [package_name].
  
 # Let's Get Started:
