@@ -1,7 +1,7 @@
 # Tomato-Leaf-Disease-Detection
 Enhancing Crop Diagnosis with CNN Technology.
 
-# Project Description for my GitHub Project: Tomato Disease Detection using Convolutional Neural Networks (CNNs)
+## Project Description for my GitHub Project: Tomato Disease Detection using Convolutional Neural Networks (CNNs)
  
 Hello everyone,
  
